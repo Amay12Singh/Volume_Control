@@ -16,7 +16,7 @@ maxVol=volRange[1]
 
 
 
-
+#First Change I made 100/100
 
 mpDraw=mp.solutions.drawing_utils
 mpHands=mp.solutions.hands
